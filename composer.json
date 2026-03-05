@@ -11,8 +11,8 @@
 		}
 	],
 	"require": {
-		"guzzlehttp/guzzle": "^6.3",
-		"nette/utils": "^2.2"
+		"guzzlehttp/guzzle": "^7.0",
+		"nette/utils": "^4.0"
 	},
 	"minimum-stability": "stable",
 	"autoload": {
